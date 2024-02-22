@@ -1,0 +1,114 @@
+#header{
+  background-color: #FE7A36;
+  margin: 0;
+  padding: 1% 1%;
+  text-align: center;
+}
+body{
+  margin: 0;
+  font-family: monospace;
+}
+.headerElement {
+  margin: 0 0 0 3%;
+  font-size: 2vw;
+
+}
+#menuBar{
+  height: 2%;
+  width: 2%;
+
+}
+.lorem{
+  width: 100%;
+  background-image: linear-gradient(to right, #FDE767 , #FF6868);
+
+}
+h1{
+  margin: 0
+}
+
+.container {
+  display: flex;
+  justify-content: space-between;
+  padding: 0;
+  background-image: linear-gradient(to right, #FDE767 , #FF6868);
+}
+.left-section {
+    flex: 1;
+    padding: 5%;
+}
+
+
+.right-section {
+    flex: 1;
+    padding: 0;
+}
+.title {
+    font-size: 3vw;
+    font-weight: bold;
+    margin-bottom: 10%
+}
+.text {
+    font-size: 1.5vw;
+    margin-bottom: 10%;
+}
+.button {
+    background-color: #FE7A36;
+    color: white;
+    padding: 2% 4%;
+    border: none;
+    cursor: pointer;
+}
+.food-image {
+    max-width: 100%;
+    height: auto;
+}
+.container2 {
+  display: flex;
+  justify-content: space-between;
+  align-items: center;
+  padding: 0;
+  background-image: linear-gradient(to right, #FDE767 , #FF6868);
+}
+.SetAdemir{
+  height: 100%;
+  width: 80%;
+  background-color: #FE7A36;
+  margin-top: 20%;
+  margin-bottom: 20%
+}
+.InsideSetAdemir{
+  padding: 5%
+
+}
+.SetAdemirText{
+  font-size: 2vw;
+  margin: 0
+}
+.SetAdemirTitle{
+  font-size: 4vw;
+  font-weight: bold;
+  margin: 5% 0%
+}
+.arrow{
+  margin-bottom: -3%;
+  height: auto;
+  width: 10%
+}
+
+.leftImg{
+  height: 58%;
+  width: 58%;
+  margin: 2%
+}
+.rightImg{
+  height: 163%;
+  width: 160%;
+  margin-left: -65%
+
+}
+.leftsection{
+  display: flex;
+  justify-content: space-between;
+  align-items: center;
+}
